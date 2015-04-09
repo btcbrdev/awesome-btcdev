@@ -20,7 +20,7 @@
 ## Javascript
 3. [Generating a Bitcoin Address with JavaScript] (http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
 
-### Bitcore
+#### Bitcore
 1. [Getting Started With Bitcore - A Full JavaScript Implementation of Bitcoin](https://www.youtube.com/watch?v=TmkN8yYyOv8)
 
 ## Multi-Signature Address
