@@ -15,7 +15,7 @@
 
 ## blockchain.info API
 1. [So You Want To Use Bitcon On Your Website] (https://www.youtube.com/playlist?list=PLhWIQKZKupCYogutsw_qRuDWhjaHm19Ie)
-2. [Blockchain Receive Payments API] (https://www.youtube.com/watch?v=vWt9wRZ3Hhk)
+2. [Building Bitcoin Websites] (https://www.youtube.com/playlist?list=PLhWIQKZKupCYEPtkR8sPLRJ5VDu8NepcV)
 
 ## Javascript
 3. [Generating a Bitcoin Address with JavaScript] (http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript)
