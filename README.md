@@ -5,7 +5,7 @@
 2. [Multi-Signature Address](#multi-signature-address)
 
 
-## Tips
+## Overview
 1. [Bitcoin: Tips for building a native Bitcoin app] (http://shout.setfive.com/2014/12/02/bitcoin-tips-for-building-a-native-bitcoin-app/)
 2. [Developing Bitcoin Applications – An overview] (http://www.railslove.com/stories/developing-bitcoin-applications-an-overview)
 3. [The Best Resources for Learning to Build Bitcoin and Block Chain Applications] (https://medium.com/zapchain-magazine/the-best-resources-for-learning-to-build-bitcoin-and-block-chain-applications-8de1953506f5)
